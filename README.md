@@ -19,6 +19,5 @@ dotnet test RaceDay.sln -c Release
 
 The API expects `ConnectionStrings__RaceDay` to point to a SQL Server database. The test suite substitutes an isolated SQLite database. Demo accounts are created with hashed passwords for local learning only; change them before any real deployment.
 
-## Learning order
-
-Read `docs/requirements/` first, then follow `src/RaceDay.Contracts`, `src/RaceDay.Api/Models`, `src/RaceDay.Api/Data`, `src/RaceDay.Api/Controllers`, and `tests/`. Each test states an expected behavior; run it while tracing the matching endpoint.
+## Youtube
+https://youtu.be/9pUSdDHq--Y
