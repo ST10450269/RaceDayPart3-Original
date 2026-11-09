@@ -1,1 +1,13 @@
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+.env
+*.db
+**/appsettings.Development.json
 .vs/ 
