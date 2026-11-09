@@ -21,3 +21,6 @@ The API expects `ConnectionStrings__RaceDay` to point to a SQL Server database. 
 
 ## Youtube
 https://youtu.be/9pUSdDHq--Y
+
+<img width="1352" height="624" alt="image" src="https://github.com/user-attachments/assets/edfe0abd-2028-4e66-8cc9-834dc1158f30" />
+
